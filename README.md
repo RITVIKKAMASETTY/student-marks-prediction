@@ -1,4 +1,5 @@
-# 🎓 Student Marks Predictor – FastAPI + ML + Docker
+ <img width="571" alt="Screenshot 2025-06-27 at 3 51 17 PM" src="https://github.com/user-attachments/assets/ba232535-6f24-46e9-8796-3394bc95903a" />
+#student marks predictor– FastAPI + ML + Docker
 
 Welcome to **Student Marks Predictor**!  
 This isn't just another Python app — it's a smart prediction engine 🚀 built with FastAPI and powered by multiple machine learning models. You give it a few student details… and 💥 out comes a mark prediction!
